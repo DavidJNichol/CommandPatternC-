@@ -1,0 +1,14 @@
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\obj\Debug\netcoreapp3.1\ConsoleCommandPattern.csproj.AssemblyReference.cache
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\obj\Debug\netcoreapp3.1\ConsoleCommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\obj\Debug\netcoreapp3.1\ConsoleCommandPattern.AssemblyInfoInputs.cache
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\obj\Debug\netcoreapp3.1\ConsoleCommandPattern.AssemblyInfo.cs
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\obj\Debug\netcoreapp3.1\ConsoleCommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\bin\Debug\netcoreapp3.1\ConsoleCommandPattern.exe
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\bin\Debug\netcoreapp3.1\ConsoleCommandPattern.deps.json
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\bin\Debug\netcoreapp3.1\ConsoleCommandPattern.runtimeconfig.json
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\bin\Debug\netcoreapp3.1\ConsoleCommandPattern.runtimeconfig.dev.json
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\bin\Debug\netcoreapp3.1\ConsoleCommandPattern.dll
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\bin\Debug\netcoreapp3.1\ConsoleCommandPattern.pdb
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\obj\Debug\netcoreapp3.1\ConsoleCommandPattern.dll
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\obj\Debug\netcoreapp3.1\ConsoleCommandPattern.pdb
+C:\Users\rnich\source\repos\ConsoleCommandPattern\ConsoleCommandPattern\obj\Debug\netcoreapp3.1\ConsoleCommandPattern.genruntimeconfig.cache
